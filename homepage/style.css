@@ -22,3 +22,7 @@ p{
 em strong{
     color:rgb(255,0,0);
 }
+
+.items{
+    font-style: italic;
+}
