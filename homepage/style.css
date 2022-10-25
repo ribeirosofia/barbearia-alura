@@ -1,9 +1,13 @@
 body{
-    background-color: #CCCCCC
+    
 }
 
 #banner{
     width: 100%
+}
+
+.intro{
+    background-color: #CCCCCC
 }
 
 h2{
@@ -25,4 +29,8 @@ em strong{
 
 .items{
     font-style: italic;
+}
+
+.benefits{
+    background-color: #FFFFFF;
 }
