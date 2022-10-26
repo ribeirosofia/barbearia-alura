@@ -10,3 +10,8 @@
     width:30%
     vertical-align: top;
 }
+
+.products h2{
+    font-size: 30px;
+    font-weight: bold;
+}
