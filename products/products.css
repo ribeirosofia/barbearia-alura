@@ -16,6 +16,10 @@
     font-weight: bold;
 }
 
+.product-description{
+    font-size: 18px;
+}
+
 .product-price{
     font-size: 22px;
     font-weight: bold;
