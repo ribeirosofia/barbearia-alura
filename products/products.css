@@ -25,6 +25,10 @@
     border-color: #088C19;
 } 
 
+.products li:hover h2{
+    font-size: 40px;
+}
+
 .products h2{
     font-size: 30px;
     font-weight: bold;
