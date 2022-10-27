@@ -21,6 +21,10 @@
     border-color: #C78C19;
 } 
 
+.products li:active{
+    border-color: #088C19;
+} 
+
 .products h2{
     font-size: 30px;
     font-weight: bold;
