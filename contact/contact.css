@@ -13,7 +13,7 @@ form label, form p{
     margin-bottom: 10px;
 }
 
-form input, textarea{
+.input-default{
     display: block;
     margin-bottom: 20px;
     padding: 10px 25px;
