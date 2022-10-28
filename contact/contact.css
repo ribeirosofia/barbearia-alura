@@ -33,6 +33,7 @@ form label, form legend{
     font-size: 18px;
     border: none;
     border-radius: 5px;
+    transition: 1s background;
 }
 
 .send-button:hover{
