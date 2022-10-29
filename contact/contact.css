@@ -41,3 +41,7 @@ form label, form legend{
     background: darkorange;
     transform: scale(1.1);
 }
+
+table{
+    margin: 20px 0 40px;
+}
