@@ -11,6 +11,10 @@
     margin: 0 0 1em;
 }
 
+.intro strong{
+    font-weight: bold;
+}
+
 .primary-title{
     text-align: center;
     font-size: 2em;
