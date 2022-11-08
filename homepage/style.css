@@ -45,6 +45,10 @@ body{
     text-align: center;
 }
 
+.location p{
+    margin-bottom: 30px;
+}
+
 .items{
     font-style: italic;
 }
