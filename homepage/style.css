@@ -7,6 +7,10 @@
     padding: 30px;
 }
 
+.intro p{
+    margin: 0 0 1em;
+}
+
 .primary-title{
     text-align: center;
     font-size: 2em;
