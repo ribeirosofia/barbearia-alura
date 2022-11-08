@@ -28,14 +28,15 @@ em strong{
     font-style: italic;
 }
 
-.benefits{
-    background-color: #FFFFFF;
-    padding: 20px;
-}
-
-ul{
+.benefits-list{
     display: inline-block;
     vertical-align: top;
     width: 20%;
     margin-right: 15%;
 }
+
+.benefits{
+    background-color: #FFFFFF;
+    padding: 20px;
+}
+
