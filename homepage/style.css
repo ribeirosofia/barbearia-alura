@@ -5,6 +5,7 @@
 .intro{
     background-color: #CCCCCC
     padding: 30px;
+    margin: 50px 100px;
 }
 
 .intro p{
@@ -25,13 +26,8 @@
     margin: 0 0 1em;
 }
 
-p{
-    text-align:center;
-}
-
 #mission-content{
     font-size: 20px;
-    text-align:center;
 }
 
 .items{
@@ -46,6 +42,7 @@ p{
 }
 
 .benefits{
+    margin: 50px 100px;
     background-color: #FFFFFF;
     padding: 20px;
 }
