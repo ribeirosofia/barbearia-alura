@@ -50,7 +50,7 @@ body{
 }
 
 .items{
-    font-style: italic;
+    line-height: 1.5;
 }
 
 .benefits-list{
