@@ -49,6 +49,11 @@ body{
     margin-bottom: 30px;
 }
 
+.location-map{
+    width: 940px;
+    margin: 0 auto;
+}
+
 .items{
     line-height: 1.5;
 }
