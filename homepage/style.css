@@ -14,6 +14,7 @@ body{
 .intro{
     padding: 3em 0;
     margin: 50px 100px;
+    background: FEFEFE;
 }
 
 .intro p{
@@ -72,6 +73,7 @@ body{
     margin: 50px 100px;
     background-color: #FFFFFF;
     padding: 3em 0;
+    background: #888888;
 }
 
 .video{
