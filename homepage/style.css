@@ -99,6 +99,15 @@ body{
 }
 
 .video{
-    margin: 50px 400px;
+    margin: 50px 200px;
 }
 
+@media screen and (max-width: 480px) {
+    .headbox, .intro, .location-map, .benefits-content{
+        width: auto;
+    }
+    .video{
+        margin: 50px 17px ;
+        width: 115%;
+    }
+}
