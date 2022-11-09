@@ -53,6 +53,10 @@ body{
     line-height: 1.5;
 }
 
+.items:first-child {
+    font-weight:bold;
+}
+
 .benefits-list{
     display: inline-block;
     vertical-align: top;
