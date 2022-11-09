@@ -51,3 +51,9 @@ body{
     font-weight: bold;
     margin-top: 10px;
 }
+
+@media screen and (max-width: 480px) {
+    .headbox, .products{
+        width: auto;
+    }
+}
