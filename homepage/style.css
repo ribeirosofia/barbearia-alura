@@ -60,6 +60,11 @@ body{
     margin-right: 15%;
 }
 
+.benefits-content{
+    width: 640px;
+    margin: 0 auto;
+}
+
 .benefits{
     margin: 50px 100px;
     background-color: #FFFFFF;
