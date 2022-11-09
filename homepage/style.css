@@ -110,12 +110,6 @@ body{
         margin: 50px 17px ;
         width: 115%;
     }
-    h1{
-        text-align: center;
-    }
-    nav{
-        position: static;
-    }
     .benefits-list, .benefits-img{
         width: 95%;
         margin-left: 5px;

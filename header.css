@@ -33,3 +33,12 @@ nav a:hover{
     color: #C78C19;
     text-decoration: underline;
 } 
+
+@media screen and (max-width: 480px) {
+    h1{
+        text-align: center;
+    }
+    nav{
+        position: static;
+    }
+}
