@@ -116,4 +116,8 @@ body{
     nav{
         position: static;
     }
+    .benefits-list, .benefits-img{
+        width: 95%;
+        margin-left: 5px;
+    }
 }
