@@ -63,6 +63,10 @@ body{
     font-weight:bold;
 }
 
+.items:before{
+    content:"★";
+}
+
 .benefits-list{
     display: inline-block;
     vertical-align: top;
