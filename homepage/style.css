@@ -41,8 +41,9 @@ body{
 }
 
 .location{
-    margin: 50px 100px;
+    width: 100%;
     text-align: center;
+    background: linear-gradient(#FEFEFE, #888888);
 }
 
 .location p{
