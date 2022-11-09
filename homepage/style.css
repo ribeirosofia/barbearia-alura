@@ -87,6 +87,15 @@ body{
     background: #888888;
 }
 
+.benefits-img{
+    opacity: 1;
+    transition: 400ms;
+}
+
+.benefits-img:hover{
+    opacity: 0.7;
+}
+
 .video{
     margin: 50px 400px;
 }
